@@ -1,0 +1,12 @@
+
+State Machine - |pian|clape:clape1|taste_note
+Name taste_note.dodo taste_note.si taste_note.la taste_note.sol taste_note.fa taste_note.mi taste_note.re taste_note.00000000 taste_note.do 
+taste_note.00000000 0 0 0 0 0 0 0 0 0 
+taste_note.re 0 0 0 0 0 0 1 1 0 
+taste_note.mi 0 0 0 0 0 1 0 1 0 
+taste_note.fa 0 0 0 0 1 0 0 1 0 
+taste_note.sol 0 0 0 1 0 0 0 1 0 
+taste_note.la 0 0 1 0 0 0 0 1 0 
+taste_note.si 0 1 0 0 0 0 0 1 0 
+taste_note.dodo 1 0 0 0 0 0 0 1 0 
+taste_note.do 0 0 0 0 0 0 0 1 1 
