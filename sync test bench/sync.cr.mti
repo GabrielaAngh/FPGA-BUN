@@ -1,0 +1,15 @@
+{D:/Desktop/New folder (2)/test_sync.v} {1 {vlog -work work {D:/Desktop/New folder (2)/test_sync.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_sync
+
+Top level modules:
+	test_sync
+
+} {} {}} {D:/Desktop/New folder (2)/sync.v} {1 {vlog -work work {D:/Desktop/New folder (2)/sync.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sync
+
+Top level modules:
+	sync
+
+} {} {}}

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vsync
+Z1 !s100 C`O8FlnmNY]BFY=TXgVIh0
+Z2 I^i`OcHSeXn]f^JMj[zR?z2
+Z3 V@fEZa2^V_UDz5B^l^7CjI0
+Z4 dD:\Desktop\New folder (2)
+Z5 w1501432303
+Z6 8D:/Desktop/New folder (2)/sync.v
+Z7 FD:/Desktop/New folder (2)/sync.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Desktop/New folder (2)/sync.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1501432717.350000
+Z12 !s107 D:/Desktop/New folder (2)/sync.v|
+!s101 -O0
+vtest_sync
+!i10b 1
+Z13 !s100 ]SWF@3^K;5d>oKgj4gMj>2
+Z14 IH>HR]lRW14Rj[RU0O9mMd3
+Z15 VaSVC^fb=:8S4>7SmW@oI]2
+R4
+Z16 w1501432684
+Z17 8D:/Desktop/New folder (2)/test_sync.v
+Z18 FD:/Desktop/New folder (2)/test_sync.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1501432717.528000
+!s107 D:/Desktop/New folder (2)/test_sync.v|
+Z19 !s90 -reportprogress|300|-work|work|D:/Desktop/New folder (2)/test_sync.v|
+!s101 -O0
+R10

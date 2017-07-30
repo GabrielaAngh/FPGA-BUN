@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vps2
+Z1 !s100 c7A];QTB9RIRZigngZD672
+Z2 I?z_]0S;b5OnQFaF;WVa5n3
+Z3 Vgc>>okUXbVc6]HiLDY3Db0
+Z4 dD:\Desktop\New folder
+Z5 w1501433681
+Z6 8D:/Desktop/New folder/ps2.v
+Z7 FD:/Desktop/New folder/ps2.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Desktop/New folder/ps2.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1501433980.731000
+Z12 !s107 D:/Desktop/New folder/ps2.v|
+!s101 -O0
+vtest_ps2
+!i10b 1
+!s100 8R2BKG54jR15OTGH;U8083
+ILBMTPCAL4zIFYLK[ZncY=2
+Z13 VG_kl8Woc3A:Ao<`jbR5[i1
+R4
+w1501433968
+Z14 8D:/Desktop/New folder/test_ps2.v
+Z15 FD:/Desktop/New folder/test_ps2.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1501433980.934000
+!s107 D:/Desktop/New folder/test_ps2.v|
+Z16 !s90 -reportprogress|300|-work|work|D:/Desktop/New folder/test_ps2.v|
+!s101 -O0
+R10

@@ -1,0 +1,15 @@
+{D:/Desktop/New folder/ps2.v} {1 {vlog -work work {D:/Desktop/New folder/ps2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ps2
+
+Top level modules:
+	ps2
+
+} {} {}} {D:/Desktop/New folder/test_ps2.v} {1 {vlog -work work {D:/Desktop/New folder/test_ps2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_ps2
+
+Top level modules:
+	test_ps2
+
+} {} {}}
